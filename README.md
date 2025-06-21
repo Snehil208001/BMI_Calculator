@@ -71,15 +71,7 @@ Make sure you have Flutter SDK installed on your machine. If not, follow the off
 
 ## ✍️ Author
 
-* **Snehil** - [Your GitHub Profile](https://github.com/snehil208001) (or link to your preferred social media/portfolio)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/bmi_calculator/issues).
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+* **Snehil** -(https://github.com/snehil208001) 
 
 ---
 Made with ❤️ by Snehil for my first Flutter adventure!
